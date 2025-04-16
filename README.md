@@ -1,9 +1,9 @@
 
-# <p align="center">Hello World! I'm Akaki — a Full-Stack Web Developer</p>
+# <p align="left">Hello World! I'm Akaki — a Full-Stack Web Developer</p>
 
 ###
 
-<p>🔭 I’m currently working on a note-taking web app using the MERN stack<br>🌱 I’m currently learning: React Native, advanced React, and computer networks</p>
+<p align="left">🔭 I’m currently working on a note-taking web app using the MERN stack<br>🌱 I’m currently learning: React Native, advanced React, and computer networks</p>
 
 ## 🌐 Socials:
 
