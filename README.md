@@ -45,7 +45,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akakaaaaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akakaaaaa&theme=default&hide_border=true&layout=compact" media="(prefers-color-scheme: light)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akakaaaaa&theme=dark&hide_border=true&layout=compact" alt="GitHub Top Languages" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akakaaaaa/akakaaaaa/output/github-snake-dark.svg" />
