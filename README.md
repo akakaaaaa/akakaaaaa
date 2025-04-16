@@ -50,6 +50,12 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/akakaaaaa/akakaaaaa/output/github-snake.svg" />
 </picture>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akakaaaaa/count.svg?"  />
+</div>
+
+###
+
 ###
 
 
