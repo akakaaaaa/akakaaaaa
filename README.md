@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+</div>
+
+
 # Hello World! I'm Akaki — a Full-Stack Web Developer<br>
 
 🔭 I’m currently working on a note-taking web app using the MERN stack<br>
